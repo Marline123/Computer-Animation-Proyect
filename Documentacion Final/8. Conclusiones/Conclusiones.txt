@@ -3,3 +3,12 @@ URL a video de youtube
     
 Link de acceso a carpeta de Drive con archivos .blend
     https://drive.google.com/drive/folders/1KhJ0qL8sBVF30iX5_lvaySNPRiYYnLBo?usp=sharing
+    
+Realizar este proyecto me enseño muchas cosas nuevas, al igual que un mundo nuevo diferente a lo habitual, 
+el conocer todos los pasos y todo el trabajo que implica el realizar una animacion, como lo fue en este 
+caso; sencilla, hace que se valore mas el trabajo relacionado a este ambito como la animacion de videojuegos,
+series, peliculas, etc. 
+Ademas, me di cuenta de que, lo usado y aprendido al realizar el proyecto, no es mas que solo la punta de lo
+que el motor de animacion Blender puede ofrecer.
+Una animacion no solo es mover un personaje cualquiera, si no, el hecho de contar una historia y con ayuda
+de todos los elementos implicados; personajes, escenarios, sonidos, transmitir una emocion.
